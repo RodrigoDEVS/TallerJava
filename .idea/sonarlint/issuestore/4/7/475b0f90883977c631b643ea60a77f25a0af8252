@@ -1,0 +1,11 @@
+
+I
+java:S1121
+".Extract the assignment out of this expression.(êçâ¤øÿÿÿÿ
+S
+java:S1854
+"8Remove this useless assignment to local variable "area".(êçâ¤øÿÿÿÿ
+D
+java:S1481")Remove this unused "area" local variable.(Ò¢óŸüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ã¨£úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬öêÐ

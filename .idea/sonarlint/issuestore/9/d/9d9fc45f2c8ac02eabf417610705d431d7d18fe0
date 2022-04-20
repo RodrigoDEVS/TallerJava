@@ -1,0 +1,13 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ãÕ£X
+G
+java:S6126"2Replace this String concatenation with Text block.(ãÕ£X
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ùçµÖ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ïŒÔìşÿÿÿÿ
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(¹ßÜK
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ïãÖé
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Î´Üúÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(©ãœ¡
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(”é´ûÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ÍÎ¥Æ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(öºŞë

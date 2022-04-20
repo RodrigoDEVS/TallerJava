@@ -1,0 +1,18 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Øş¢Ìùÿÿÿÿ
+M
+java:S6126"2Replace this String concatenation with Text block.(Øş¢Ìùÿÿÿÿ
+h	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ÎŞèº8øñ©óƒ0
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(úÀôãùÿÿÿÿ8øñ©óƒ0
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ğÁ–Óûÿÿÿÿ8ùñ©óƒ0
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(·ÿ½äûÿÿÿÿ8Ù„ªóƒ0
+J	java:S108")Either remove or fill this block of code.(·ÿ½äûÿÿÿÿ8ùñ©óƒ0
+J	java:S108")Either remove or fill this block of code.(ğÁ–Óûÿÿÿÿ8ùñ©óƒ0
+J	java:S108")Either remove or fill this block of code.(úÀôãùÿÿÿÿ8Ù„ªóƒ0
+E	java:S108")Either remove or fill this block of code.(ÎŞèº8Õˆ­óƒ0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æóÿ¾ıÿÿÿÿ
+>
+java:S1116"Remove this empty statement.(Æóÿ¾ıÿÿÿÿ8á›®óƒ0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾º
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ùÛöÄûÿÿÿÿ8ñÜ¢óƒ0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(Äºé8á›®óƒ0

@@ -1,0 +1,10 @@
+
+s
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "total".(¤†Æâ
+j	java:S116
+"NRename this field "IVA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ë˜þ8¹³äñƒ0
+>
+java:S1170
+"!Make this final field static too.(¦ë˜þ8Û¶àñƒ0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±ÖýÇýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šøú™øÿÿÿÿ
